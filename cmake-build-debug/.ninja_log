@@ -1,0 +1,5 @@
+# ninja log v5
+1	947	7266807255913995	CMakeFiles/TextVenture.dir/main.cpp.obj	a5ff156ff8160386
+1	609	7278943294702459	CMakeFiles/TextVenture.dir/Message.cpp.obj	c5452566acf95b39
+0	582	7278944632512189	CMakeFiles/TextVenture.dir/Game.cpp.obj	8608ae6274060113
+582	714	7278944633528210	TextVenture.exe	b148a666553fcc5e
