@@ -14,3 +14,5 @@ and link it to the path of the story that it belongs to.
 
 at the moment not a lot of text has been implemented, so the game is not finished.
 the functionality is there and can be easily added on. 
+
+
