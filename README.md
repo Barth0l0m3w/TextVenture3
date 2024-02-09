@@ -15,4 +15,8 @@ and link it to the path of the story that it belongs to.
 at the moment not a lot of text has been implemented, so the game is not finished.
 the functionality is there and can be easily added on. 
 
+the window will exit when there is no more text to be printed
+
+![](https://github.com/Barth0l0m3w/TextVenture3/blob/master/Gif/TextVenture.gif)
+
 
